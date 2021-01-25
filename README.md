@@ -1,7 +1,7 @@
 # CSS 410 Research tools and methods
 ## Team members
-+ **Aibek Nurtazayev** - Frontend Developer, Designer (GitHub account: **)
-+ **Azamat Zhumatay** - Backend Developer, Documentation (GitHub account: *azikingo*)
++ **Aibek Nurtazayev** - Project and Product Manager, UI and UX Designer (GitHub account: **)
++ **Azamat Zhumatay** - Developer, Documentation (GitHub account: *azikingo*)
 
 ## Project
 Our project will give people an easy opportunity to rent their things and find what they need!
