@@ -1,10 +1,10 @@
 # CSS 410 Research tools and methods
 ## Team members
-+ **Jet Lee** - Backend Developer (GitHub account: *jetlee*)
-+ **Jacky Chan** - Frontend Developer (GitHub account: *jackychan*)
++ **Aibek Nurtazayev** - Frontend Developer, Designer (GitHub account: **)
++ **Azamat Zhumatay** - Backend Developer, Documentation (GitHub account: *azikingo*)
 
 ## Project
-This project is yet-another clone of Instagram
+Our project will give people an easy opportunity to rent their things and find what they need!
 
 ## Technologies
-In our project we use **Laravel**, **VueJS**
+In our project we use **HTML**, **CSS**, **JS**, **PHP**
