@@ -1,6 +1,6 @@
 # CSS 410 Research tools and methods
 ## Team members
-+ **Aibek Nurtazayev** - Project and Product Manager, UI and UX Designer (GitHub account: **)
++ **Aibek Nurtazayev** - Project and Product Manager, UI and UX Designer (GitHub account: *qarapaiymqazaqbalasy*)
 + **Azamat Zhumatay** - Developer, Documentation (GitHub account: *azikingo*)
 
 ## Project
