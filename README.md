@@ -2,7 +2,7 @@
 ## Team members
 + **Aibek Nurtazayev** - Project and Product Manager, UI and UX Designer (GitHub account: *@qarapaiymqazaqbalasy*)
 + **Azamat Zhumatay** - Back-end Developer (GitHub account: *@azikingo*)
-+ **Nursultan Nogay** - Marketing Manager (GitHub account: **)
++ **Nursultan Nogay** - Database and Architect Manager, Marketing Manager (GitHub account: **)
 + **Nurdaulet Zhappar** - Front-end Developer (GitHub account: **)
 + **Zhansultan Nagashybayev** - Documentation (GitHub account: **)
 
