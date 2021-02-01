@@ -1,11 +1,15 @@
 # CSS 410 Research tools and methods
 ## Team members
 + **Aibek Nurtazayev** - Project and Product Manager, UI and UX Designer (GitHub account: *@qarapaiymqazaqbalasy*)
-+ **Azamat Zhumatay** - Developer, Documentation (GitHub account: *@azikingo*)
-+ **Nursultan Nogay** - Front-end Developer, Marketing Manager (GitHub account: **)
++ **Azamat Zhumatay** - Back-end Developer (GitHub account: *@azikingo*)
++ **Nursultan Nogay** - Marketing Manager (GitHub account: **)
++ **Nurdaulet Zhappar** - Front-end Developer (GitHub account: **)
++ **Zhansultan Nagashybayev** - Documentation (GitHub account: **)
+
 
 ## Project
 Our project will give people an easy opportunity to rent their things and find what they need!
+Project mockups: https://miro.com/app/board/o9J_kgEkffo=/
 
 ## Technologies
-In our project we use **HTML**, **CSS**, **JS**, **PHP**
+In our project we use **HTML**, **CSS**, **React-JS**, **Django**
