@@ -1,0 +1,33 @@
+Our e-learning system may not be understand by our community-gamers
+Author’s lecture notes, class test papers, home assignments etc. may be modified / destroyed by 
+hackers through the above attacks.
+Main risks in E-Learning involve inelegant people masquerading as Students and writing tests
+on behalf of enrolled Students.
+Designing, developing, and delivering E-Learning products requires a quality of hardware 
+components such as high ended web server & database server ,high bandwidth internet leased line ,
+ along with a robust infrastructure capable of sustaining multiple users and networked applications.
+Confidentiality violation : An unauthorized party gaining access of the assets present in E-Learning system.
+Denial of Service : Prevention of legitimate access rights by disrupting traffic during the transaction
+ among the users of E-Learning system. 
+
+System team should suggest the remedies of these risks properly otherwise total project cost will be
+ almost double. We presented the risks that may occur by different participants of E-Learning and its counter 
+measure tools/ techniques to minimize those risks.
+
+Non-Functional Requirements
+
+- The application must be built in Vue.js and Laravel
+- The application must be hosted on Ps.Kz
+- The application must use PayBox for payment processing
+- The application must work in all modern browsers
+- The application must be responsive (work well and look good on all screen sizes)
+- The application must be secured from copypast (video courses should be undownloadable)
+
+In weekly meetings with our team we discussed about: How the project is to be implemented?
+What are various constraints(time costs and staff)? 
+What is market strategy?
+We worked with sitemap which does not coincides with our preferences and Nursultan made it again.
+We made simple list of major pages of our site and elements which will be in them.
+We sketched first wireframes of  what will be seen on Administration module, lecturer mofule, and student module.
+We also discussed about site responsiveness. It is not required but it takes to much work on it.
+And assumed about future risks
