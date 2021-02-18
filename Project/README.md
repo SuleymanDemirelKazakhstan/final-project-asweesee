@@ -1,4 +1,1 @@
-# EXECUTION
-Run following command:
-> npm install
-> npm run start
+<h3>Project</h3>
