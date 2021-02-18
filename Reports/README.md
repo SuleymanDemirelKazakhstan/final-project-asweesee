@@ -13,4 +13,4 @@ We made simple list of major pages of our site and elements which will be in the
 We sketched first wireframes of  what will be seen on Administration module, lecturer mofule, and student module.
 We also discussed about site responsiveness. It is not required but it takes to much work on it.
 And assumed about future risks
-<h3>Week 4</h3>
+<h3>Week 5</h3>
