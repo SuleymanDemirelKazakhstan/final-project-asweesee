@@ -133,7 +133,10 @@ measure tools/ techniques to minimize those risks.
   </tr>
   
 </table>
+<h3>Site map</h3>https://miro.com/app/board/o9J_lUTT7GY=/
+<img src="aswesee.jpg" alt="">
+<h3>Wireframe</h3>
+<img src="Wireframe.jpeg" alt="">
 
-<img src="asweesee.jpg" alt="">
 
 
