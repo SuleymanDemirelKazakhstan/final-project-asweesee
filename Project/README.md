@@ -134,6 +134,6 @@ measure tools/ techniques to minimize those risks.
   
 </table>
 
+<img src="asweesee.jpg" alt="">
 
 
-<iframe width="768" height="432" src="https://miro.com/app/live-embed/o9J_lUTT7GY=/?moveToViewport=-199,-761,1723,1541" frameBorder="0" scrolling="no" allowFullScreen></iframe>
