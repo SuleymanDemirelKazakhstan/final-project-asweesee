@@ -14,9 +14,9 @@ We sketched first wireframes of  what will be seen on Administration module, lec
 We also discussed about site responsiveness. It is not required but it takes to much work on it.
 And assumed about future risks
 <h3>Week 7</h3>
-Aibek Nurtazayev - Preparing and testing all ux design
-Azamat Zhumatay - Creating admin page,registration page and testing
-Nursultan Nogay - Creating database,preparing content plan
-Nurdaulet Zhappar - integration front side with adaptive design 
-Zhansultan Nagashybayev - created uml design, preparing content plan
+Aibek Nurtazayev - Preparing and testing all ux design<br>
+Azamat Zhumatay - Creating admin page,registration page and testing<br>
+Nursultan Nogay - Creating database,preparing content plan<br>
+Nurdaulet Zhappar - integration front side with adaptive design <br>
+Zhansultan Nagashybayev - created uml design, preparing content plan<br>
  
