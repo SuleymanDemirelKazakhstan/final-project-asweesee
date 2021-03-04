@@ -13,4 +13,10 @@ We made simple list of major pages of our site and elements which will be in the
 We sketched first wireframes of  what will be seen on Administration module, lecturer mofule, and student module.
 We also discussed about site responsiveness. It is not required but it takes to much work on it.
 And assumed about future risks
-<h3>Week 5</h3>
+<h3>Week 7</h3>
+Aibek Nurtazayev - Preparing and testing all ux design
+Azamat Zhumatay - Creating admin page,registration page and testing
+Nursultan Nogay - Creating database,preparing content plan
+Nurdaulet Zhappar - integration front side with adaptive design 
+Zhansultan Nagashybayev - created uml design, preparing content plan
+ 
