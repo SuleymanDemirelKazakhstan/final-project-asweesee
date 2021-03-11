@@ -21,10 +21,10 @@ Nurdaulet Zhappar - integration front side with adaptive design <br>
 Zhansultan Nagashybayev - created uml design, preparing content plan<br>
  
 <h3>Week 8</h3>
-Aibek Nurtazayev - Designing practice and course page
-Azamat Zhumatay - Creating Teacher account and role
-Nursultan Nogay - Crud functions in admin panel
-Nurdaulet Zhappar - integration front side with adaptive design
-Zhansultan Nagashybayev - preparing content plan, making videos
+Aibek Nurtazayev - Designing practice and course page<br>
+Azamat Zhumatay - Creating Teacher account and role<br>
+Nursultan Nogay - Crud functions in admin panel<br>
+Nurdaulet Zhappar - integration front side with adaptive design<br>
+Zhansultan Nagashybayev - preparing content plan, making videos<br>
 
  
