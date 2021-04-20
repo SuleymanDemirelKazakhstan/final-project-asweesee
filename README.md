@@ -1,6 +1,5 @@
 # CSS 410 Research tools and methods
 ## Team members
-+ **Aibek Nurtazayev** - Project and Product Manager (GitHub account: *@qarapaiymqazaqbalasy*)
 + **Azamat Zhumatay** - Back-end Developer (GitHub account: *@azikingo*)
 + **Nursultan Nogay** - Database and Architect Manager, Marketing Manager (GitHub account: **)
 + **Nurdaulet Zhappar** - Front-end Developer (GitHub account: **)
