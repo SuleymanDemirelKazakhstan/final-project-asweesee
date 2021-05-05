@@ -1,10 +1,14 @@
 # CSS 410 Research tools and methods
 ## Team members
-+ **Jet Lee** - Backend Developer (GitHub account: *jetlee*)
-+ **Jacky Chan** - Frontend Developer (GitHub account: *jackychan*)
++ **Azamat Zhumatay** - Back-end Developer (GitHub account: *@azikingo*)
++ **Nursultan Nogay** - Database and Architect Manager, Marketing Manager (GitHub account: **)
++ **Nurdaulet Zhappar** - Front-end Developer (GitHub account: **)
++ **Zhansultan Nagashybayev** -  UI and UX Designer(GitHub account: **)
+
 
 ## Project
-This project is yet-another clone of Instagram
+Our project will give people an easy opportunity to rent their things and find what they need!
+Project mockups: https://miro.com/app/board/o9J_kgEkffo=/
 
 ## Technologies
-In our project we use **Laravel**, **VueJS**
+In our project we use **JavaSpring**, **Bootstrap**, **FreeMarker-HTML**, **CSS**
