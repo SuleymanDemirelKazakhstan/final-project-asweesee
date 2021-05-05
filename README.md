@@ -11,4 +11,4 @@ Our project will give people an easy opportunity to rent their things and find w
 Project mockups: https://miro.com/app/board/o9J_kgEkffo=/
 
 ## Technologies
-In our project we use **Laravel-PHP**, **Bootstrap Vue**, **Vue.js**, **Inertia.js**
+In our project we use **JavaSpring**, **Bootstrap**, **FreeMarker-HTML**, **CSS**
