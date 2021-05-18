@@ -1,3 +1,5 @@
+<h3>Documentation</h3>
+https://docs.google.com/document/d/1sKJFb5rmgNHo9GZbM6YhHSNTetLDTFdEaIurPn4N7hk/edit#
 <h3>Week 3</h3>
 In weekly meetings with our team we discussed about: How the project is to be implemented?
 What are various constraints(time costs and staff)? 
